@@ -15,6 +15,7 @@
         <module>rt-pay</module>
         <module>rt-common</module>
         <module>rt-backend</module>
+        <module>rt-web</module>
     </modules>
 
 
